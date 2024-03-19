@@ -1,0 +1,23 @@
+.body{
+    background: rgb(231, 231, 177);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(167, 45, 45, 0.1);
+    backdrop-filter: blur(0.7px);
+    -webkit-backdrop-filter: blur(0.7px);
+    border: 1px solid rgba(73, 175, 207, 0.18);
+    }
+    
+    .head{
+        background-color: black;
+        color: white;
+        text-align:center;
+    }
+
+    .rows{
+        width:100%;
+        gap: 10px;
+    }
+
+    .card{
+        margin-left:20px ;
+    }
